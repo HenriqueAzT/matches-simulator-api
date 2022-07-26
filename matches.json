@@ -1,1 +1,18 @@
-
+[
+  {
+    "descrição": "Brasileirão Série A 2022",
+    "local": {
+      "nome": "Maracanã,
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Flamengo",
+      "força": 4,
+      "imagem": "TODO"
+    },
+    "visitante
+      "nome": "Atlético-GO
+      "força": 2,
+      "imagem": "TODO"
+  }
+]
