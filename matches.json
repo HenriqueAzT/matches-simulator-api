@@ -9,12 +9,12 @@
     "mandante": {
       "nome": "Goias",
       "forca": 1,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/goias.png"
     },
     "visitante": {
       "nome": "Coritiba",
       "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/coritiba.png"
     }
   },
   {
@@ -26,12 +26,12 @@
     "mandante": {
       "nome": "Ceara",
       "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/ceara.png"
     },
     "visitante": {
       "nome": "Palmeiras",
       "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/palmeiras.png"
     }
   },
   {
@@ -43,12 +43,12 @@
     "mandante": {
       "nome": "Corinthians",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/corinthians.png"
     },
     "visitante": {
       "nome": "Botafogo",
       "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/botafogo.gif"
     }
   },
   {
@@ -60,12 +60,12 @@
     "mandante": {
       "nome": "Flamengo",
       "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/fla.png"
     },
     "visitante": {
       "nome": "Atletico-GO",
       "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/atlego.png"
     }
   },
   {
@@ -77,12 +77,12 @@
     "mandante": {
       "nome": "Atletico-PR",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/atlpr.png"
     },
     "visitante": {
       "nome": "Sao Paulo",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/saopaulo.png"
     }
   },
   {
@@ -94,12 +94,12 @@
     "mandante": {
       "nome": "Internacional",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/interrs.png"
     },
     "visitante": {
       "nome": "Atletico-MG",
       "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/atletico.png"
     }
   },
   {
@@ -111,12 +111,12 @@
     "mandante": {
       "nome": "Cuiabá",
       "forca": 1,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/cuiaba_mt.png"
     },
     "visitante": {
       "nome": "Fortaleza",
       "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/fortaleza.png"
     }
   },
   {
@@ -128,12 +128,12 @@
     "mandante": {
       "nome": "América-MG",
       "forca": 1,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/ammg.png"
     },
     "visitante": {
       "nome": "Avaí",
       "forca": 1,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/avai.gif"
     }
   },
   {
@@ -145,12 +145,12 @@
     "mandante": {
       "nome": "Bragantino",
       "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/bragantino.png"
     },
     "visitante": {
       "nome": "Juventude",
       "forca": 1,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/juventude.png"
     }
   },
   {
@@ -162,12 +162,12 @@
     "mandante": {
       "nome": "Santos",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://www.escudosfc.com.br/images/santos.png"
     },
     "visitante": {
       "nome": "Fluminense",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://www.escudosfc.com.br/images/fluminense.png"
     }
   }
 ]
