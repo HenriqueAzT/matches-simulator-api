@@ -7,12 +7,12 @@
     },
     "mandante": {
       "nome": "Flamengo",
-      "forca": 4,
+      "forca": 4.3,
       "imagem": "https://www.imagensempng.com.br/wp-content/uploads/2021/01/Escudo-Flamengo-Png-1024x1024.png"
     },
     "visitante": {
-      "nome": "Atlético-GO"
-      "forca": 2,
+      "nome": "AtléticoGO"
+      "forca": 2.5,
       "imagem": "https://imagenspng.com/wp-content/uploads/atletico-goianiense-escudo-png-Imagem-png-download.png"
     }
   }
