@@ -23,13 +23,13 @@
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
     },
     "mandante": {
-      "nome": "Flamengo",
-      "forca": 4.1,
+      "nome": "Bolívia",
+      "forca": 2,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     },
     "visitante": {
-      "nome": "AtleticoGO",
-      "forca": 2.26,
+      "nome": "Brasil",
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   },
