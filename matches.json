@@ -50,6 +50,124 @@
       "forca": 2,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Flamengo",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Atletico-GO",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Atletico-PR",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Sao Paulo",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Internacional",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Atletico-MG",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Cuiabá",
+      "forca": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Fortaleza",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "América-MG",
+      "forca": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Avaí",
+      "forca": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Bragantino",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Juventude",
+      "forca": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Santos",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Fluminense",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
   }
-  
 ]
